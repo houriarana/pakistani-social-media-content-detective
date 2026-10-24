@@ -34,15 +34,13 @@ This project analyzes YouTube comments on Pakistani content to understand audien
 
 📊 Key Findings
 
-· The majority of the audience engagement is [Positive / Negative / Neutral] (Change this based on your graph).
-· [Write one line about which video got the most comments].
-· [Write one line about what kind of topics users were discussing most].
+The majority of the audience engagement is **Neutral**.
+*   The data shows that users are mostly having general discussions and reacting normally to the content.
+*   While there are some positive reactions, critical (negative) feedback is the lowest.
 
 💡 Recommendation for Pakistani Brands
 
-Based on the data patterns, Pakistani brands should focus on creating content that drives positive engagement. [Add one more sentence about what they should post next based on your analysis].
-
-
+Based on the data patterns, Pakistani brands should focus on creating content that drives positive engagement.Brands should avoid controversial topics to keep the negative sentiment low.
 Developed by [houria rana]
 GitHub Profile: https://github.com/houriarana
 
